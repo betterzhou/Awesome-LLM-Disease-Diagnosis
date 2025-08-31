@@ -62,6 +62,7 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 
 | Title                                                                                                                 | Published Year | Journal                                 | Task                     | Input Data Modality               | LLM Technique Type                            |
 |-----------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------|--------------------------|------------------------------------|-----------------------------------------------|
+| CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset                                                     | 2025           | AAAI Conference on Artificial Intelligence | Disease diagnosis        | Text                               | RAG (corpus)                                  |
 | Optimization of hepatological clinical guidelines interpretation by large language models: a retrieval augmented generation-based framework | 2024           | npj Digital Medicine                   | Disease diagnosis        | Text                               | RAG (corpus)                                  |
 | Explanatory argumentation in natural language for correct and incorrect medical diagnoses                             | 2024           | Journal of Biomedical Semantics        | Disease diagnosis        | Text, Image                        | RAG (database)                                |
 | ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text                 | 2024           | arXiv                                  | Disease diagnosis        | Time series, Text                  | RAG (corpus)                                  |
@@ -155,6 +156,7 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 | Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales | 2024           | AAAI                                      | Disease diagnosis              | Text, Image                    | Fine-tune (supervised FT)               |
 | DRG-LLaMA: Tuning LLaMA Model to Predict Diagnosis-related Group for Hospitalized Patients             | 2024           | NPJ Digital Medicine                      | Differential diagnosis         | Text                            | Fine-tune (parameter efficient FT)     |
 | CancerLLM: A Large Language Model in Cancer Domain                                                    | 2024           | arXiv                                     | Disease diagnosis              | Text                            | Fine-tune (parameter efficient FT)     |
+| CPLLM: Clinical Prediction with Large Language Models                                                  | 2024           | PLOS Digital Health                      | Disease diagnosis              | Text                            | Fine-tune (supervised FT)               |
 
 
 
