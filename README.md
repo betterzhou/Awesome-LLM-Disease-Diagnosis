@@ -6,6 +6,9 @@ This repository contains resources for the review paper "[Large language models 
 
 
 
+🔥🔥🔥 Additionally, we provide a curated list of diagnostic datasets at the bottom of this page.
+
+
 ---
 
 ### Figures
@@ -233,6 +236,17 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 | Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data              | 2024           | arXiv   | Risk Prediction                         | Text, Tabular              | Pre-training                           |
 
 
+
+
+# Disease diagnosis datasets
+
+- [**MSDiagnosis**](https://github.com/nlper-hou/MSDiagnosis/tree/main)
+- [**OpenXDDx**](#)
+- [**DiagnosisArea**](#)
+- [**MedCaseReasoning**](#)
+- [**MedRBench**](#)
+- [**RareArena**](#)
+- [**RareBench**](#)
 
 
 
