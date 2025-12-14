@@ -241,12 +241,12 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 # Disease diagnosis datasets
 
 - [**MSDiagnosis**](https://github.com/nlper-hou/MSDiagnosis/tree/main)
-- [**OpenXDDx**](#)
-- [**DiagnosisArea**](#)
-- [**MedCaseReasoning**](#)
-- [**MedRBench**](#)
-- [**RareArena**](#)
-- [**RareBench**](#)
+- [**OpenXDDx**](https://github.com/betterzhou/Dual-Inf)
+- [**DiagnosisArea**](https://github.com/SPIRAL-MED/DiagnosisArena)
+- [**MedCaseReasoning**](https://huggingface.co/datasets/zou-lab/MedCaseReasoning)
+- [**MedRBench**](https://github.com/MAGIC-AI4Med/MedRBench/tree/main/data/MedRBench)
+- [**RareArena**](https://huggingface.co/datasets/THUMedInfo/RareArena)
+- [**RareBench**](https://github.com/chenxz1111/RareBench)
 
 
 
