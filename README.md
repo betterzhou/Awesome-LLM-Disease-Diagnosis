@@ -247,7 +247,7 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 - [**MedRBench**](https://github.com/MAGIC-AI4Med/MedRBench/tree/main/data/MedRBench)
 - [**RareArena**](https://huggingface.co/datasets/THUMedInfo/RareArena)
 - [**RareBench**](https://github.com/chenxz1111/RareBench)
-
+- [**CUPCase**](https://github.com/nadavlab/CUPCase)
 
 
 
