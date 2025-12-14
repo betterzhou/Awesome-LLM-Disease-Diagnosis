@@ -251,9 +251,17 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 
 
 
+
+⭐️⭐️⭐️ If you find this project beneficial to your study, please give it a star!
+
+For research cooperation, please contact shuang.zhou  AT  connect.polyu.hk
+
+
+
+
 # Citation
 
-Please kindly cite the paper if it benefits your research:
+⭐️⭐️⭐️ Please kindly cite the paper if it benefits your research:
 
 Zhou, Shuang, et al. "Large language models for disease diagnosis: A scoping review." npj Artificial Intelligence 1.1 (2025): 1-17.
 
