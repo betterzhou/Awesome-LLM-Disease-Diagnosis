@@ -17,6 +17,7 @@ This repository contains resources for the review paper "[Large language models 
 - [**DiagnosisArea**](https://github.com/SPIRAL-MED/DiagnosisArena)
 - [**MedCaseReasoning**](https://huggingface.co/datasets/zou-lab/MedCaseReasoning)
 - [**MedRBench**](https://github.com/MAGIC-AI4Med/MedRBench/tree/main/data/MedRBench)
+- [**C-EMR**](https://github.com/YangzlTHU/C-EMRs)
 - [**RareArena**](https://huggingface.co/datasets/THUMedInfo/RareArena)
 - [**RareBench**](https://github.com/chenxz1111/RareBench)
 - [**CUPCase**](https://github.com/nadavlab/CUPCase)
