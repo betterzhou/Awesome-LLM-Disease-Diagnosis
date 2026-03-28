@@ -9,7 +9,7 @@ This repository contains resources for the review paper "[Large language models 
 🔥🔥🔥 Additionally, we provide a curated list of diagnostic datasets !!!
 
 
-# Disease diagnosis datasets
+# Disease diagnosis datasets (clinical notes)
 
 - [**MSDiagnosis**](https://github.com/nlper-hou/MSDiagnosis/tree/main)
 - [**OpenXDDx**](https://github.com/betterzhou/Dual-Inf)
