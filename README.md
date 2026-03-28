@@ -6,7 +6,25 @@ This repository contains resources for the review paper "[Large language models 
 
 
 
-🔥🔥🔥 Additionally, we provide a curated list of diagnostic datasets at the bottom of this page.
+🔥🔥🔥 Additionally, we provide a curated list of diagnostic datasets !!!
+
+
+# Disease diagnosis datasets
+
+- [**MSDiagnosis**](https://github.com/nlper-hou/MSDiagnosis/tree/main)
+- [**OpenXDDx**](https://github.com/betterzhou/Dual-Inf)
+- [**MedDX-Bench**](https://github.com/medfound/medfound/tree/main/data/test.zip)
+- [**DiagnosisArea**](https://github.com/SPIRAL-MED/DiagnosisArena)
+- [**MedCaseReasoning**](https://huggingface.co/datasets/zou-lab/MedCaseReasoning)
+- [**MedRBench**](https://github.com/MAGIC-AI4Med/MedRBench/tree/main/data/MedRBench)
+- [**RareArena**](https://huggingface.co/datasets/THUMedInfo/RareArena)
+- [**RareBench**](https://github.com/chenxz1111/RareBench)
+- [**CUPCase**](https://github.com/nadavlab/CUPCase)
+- [**DDXPlus**](https://github.com/mila-iqia/ddxplus)
+
+
+⭐️⭐️⭐️ If you find this project beneficial to your study, please give us a star and kindly cite our paper!
+
 
 
 ---
@@ -238,21 +256,7 @@ part of the clinical specialties, some representative diseases, and partial LLM 
 
 
 
-# Disease diagnosis datasets
 
-- [**MSDiagnosis**](https://github.com/nlper-hou/MSDiagnosis/tree/main)
-- [**OpenXDDx**](https://github.com/betterzhou/Dual-Inf)
-- [**DiagnosisArea**](https://github.com/SPIRAL-MED/DiagnosisArena)
-- [**MedCaseReasoning**](https://huggingface.co/datasets/zou-lab/MedCaseReasoning)
-- [**MedRBench**](https://github.com/MAGIC-AI4Med/MedRBench/tree/main/data/MedRBench)
-- [**RareArena**](https://huggingface.co/datasets/THUMedInfo/RareArena)
-- [**RareBench**](https://github.com/chenxz1111/RareBench)
-- [**CUPCase**](https://github.com/nadavlab/CUPCase)
-- [**DDXPlus**](https://github.com/mila-iqia/ddxplus)
-
-
-
-⭐️⭐️⭐️ If you find this project beneficial to your study, please give it a star!
 
 For research cooperation, please contact shuang.zhou  AT  connect.polyu.hk
 
